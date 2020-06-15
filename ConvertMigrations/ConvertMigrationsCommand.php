@@ -1,5 +1,5 @@
 <?php
-namespace App\Http\Controllers\Developer\ConvertMigrations;
+namespace App\Http\Controllers\ConvertMigrations;
 use Illuminate\Console\Command;
 
 class ConvertMigrationsCommand extends Command {
@@ -7,7 +7,7 @@ class ConvertMigrationsCommand extends Command {
 // app/Console/Kernel.php 에 추가
 // protected $commands = [
     //
-    // 'App\Http\Controllers\Developer\ConvertMigrations\ConvertMigrationsCommand', 
+    // 'App\Http\Controllers\Developer\ConvertMigrations\ConvertMigrationsCommand',
 // ];
 
     /**

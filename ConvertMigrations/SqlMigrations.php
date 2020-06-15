@@ -1,5 +1,5 @@
 <?php
-namespace App\Http\Controllers\Developer\ConvertMigrations;
+namespace App\Http\Controllers\ConvertMigrations;
 
 use DB;
 use Illuminate\Support\Str;

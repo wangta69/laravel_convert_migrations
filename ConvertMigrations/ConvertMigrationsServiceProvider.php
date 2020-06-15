@@ -1,5 +1,5 @@
 <?php
-namespace App\Http\Controllers\Developer\ConvertMigrations;
+namespace App\Http\Controllers\ConvertMigrations;
 
 use Illuminate\Support\ServiceProvider;
 
