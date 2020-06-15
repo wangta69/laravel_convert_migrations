@@ -10,3 +10,7 @@ protected $commands = [
 
 ### Command on Console
 php artisan convert:migrations YourDataBaseName
+
+
+thanks to adamkearsley
+https://github.com/adamkearsley/laravel-convert-migrations/tree/master/src/Adamkearsley/ConvertMigrations
